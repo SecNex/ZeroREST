@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="zerorest",
-    version="1.0.0",
+    version="1.0.1",
     author="SecNex",
     author_email="dev@secnex.io",
     description="A simple http client with zero dependencies and modern features like modern authentication.",
