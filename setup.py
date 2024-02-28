@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="ZeroREST",
+    name="zerorest",
     version="1.0.0",
     author="SecNex",
     author_email="dev@secnex.io",
